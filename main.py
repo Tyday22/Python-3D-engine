@@ -43,16 +43,12 @@ class draw:
                (0.5 * fov_val) * ((y + camY) / (z + 0.1 * camZ)))
         t.ht()
 
-        #print(f"X:{x} Y: {y} Z: {z}")
-
-
     #does what its called
 
     @staticmethod
     def clear():
         t.clear()
         
-
 #shapes class
 class shape:
 
