@@ -1,7 +1,7 @@
 # PYTHON 3D Engine
 
 
-## Made in the ****[Python Turtle](https://docs.python.org/3/library/turtle.html)** library 
+## Made in the **[Python Turtle](https://docs.python.org/3/library/turtle.html)** library 
 
 ### Runs on this one simple calculation:
 
@@ -19,6 +19,7 @@
 * **[Python 3.11 or later](https://docs.python.org/release/3.11.0/)** -for main code
 * **Keyboard** - for input
 * **Turtle** - for input
+* **Time** - to prevent high cpu usage
 
 # installing libraries
 
