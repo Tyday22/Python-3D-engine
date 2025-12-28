@@ -108,9 +108,9 @@ def update():
         if keyboard.is_pressed('d'):
             camX -= 1
 
-        if keyboard.is_pressed('up'):
+        if keyboard.is_pressed('space'):
             camY -= 1
-        if keyboard.is_pressed('down'):
+        if keyboard.is_pressed('shift'):
             camY += 1
 
         #fixes division by 0 error
