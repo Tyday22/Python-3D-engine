@@ -56,7 +56,6 @@ class shape:
     @staticmethod
     #dont worry about this
     def cube(x=0, y=0, z=0, size=20):
-        # Front Face (Z + 1)
         draw.goto(x + size, y + size, z + 1)
         draw.goto(x - size, y + size, z + 1)
         draw.goto(x - size, y - size, z + 1)
